@@ -1,0 +1,6 @@
+# Core deps for the AirHop standalone receiver. torch is installed
+# separately by setup_jetson.sh (JetPack CUDA wheel, with CPU fallback).
+numpy
+scipy
+pillow
+tqdm

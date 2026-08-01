@@ -1,0 +1,9 @@
+airhop_env/
+__pycache__/
+*.pyc
+out/
+out_gray/
+out_pattern/
+tree.txt
+venv/
+decode_out/
